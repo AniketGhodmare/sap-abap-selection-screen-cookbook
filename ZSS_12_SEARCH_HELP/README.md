@@ -54,28 +54,11 @@ Search Helps are widely used across SAP applications for selecting Materials, Cu
 ---
 
 # 📸 Selection Screen
-
-> **Selection Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Selection Screen](screenshots/input_screen.png)
-```
-
----
 
 # 📄 Output Screen
 
-> **Output Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Output Screen](screenshots/output_screen.png)
-```
-
----
 
 # 💡 SAP Best Practices
 

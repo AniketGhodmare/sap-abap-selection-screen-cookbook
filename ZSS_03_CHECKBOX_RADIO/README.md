@@ -48,28 +48,11 @@ The example demonstrates how to create checkboxes and radio button groups, assig
 ---
 
 # 📸 Selection Screen
-
-> **Selection Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Selection Screen](screenshots/input_screen.png)
-```
-
----
 
 # 📄 Output Screen
 
-> **Output Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Output Screen](screenshots/output_screen.png)
-```
-
----
 
 # 💡 SAP Best Practices
 

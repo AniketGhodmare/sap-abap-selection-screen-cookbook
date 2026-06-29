@@ -54,28 +54,11 @@ The program uses the standard SAP GUI Frontend Services class to provide a user-
 ---
 
 # 📸 Selection Screen
-
-> **Selection Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Selection Screen](screenshots/input_screen.png)
-```
-
----
 
 # 📄 Output Screen
 
-> **Output Screen Screenshot**
-
-Add the screenshot below.
-
-```markdown
 ![Output Screen](screenshots/output_screen.png)
-```
-
----
 
 # 💡 SAP Best Practices
 
