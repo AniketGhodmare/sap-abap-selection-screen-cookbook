@@ -54,6 +54,8 @@ This example serves as the foundation for understanding Selection Screen develop
 
 > Add the Selection Screen screenshot below.
 
+![Selection Screen](screenshots/input_screen.png)
+
 ```markdown
 ![Selection Screen](screenshots/input_screen.png)
 ```
