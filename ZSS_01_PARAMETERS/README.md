@@ -51,17 +51,9 @@ This example serves as the foundation for understanding Selection Screen develop
 ---
 
 # 📸 Selection Screen
-
- 
-
-![Selection Screen](screenshots/input_screen.png)
-
 ![Selection Screen](screenshots/input_screen.png)
 
 # 📄 Output Screen
-
-> Add the Output Screen screenshot below.
-
 ![Output Screen](screenshots/output_screen.png)
 
 # 💡 SAP Best Practices
